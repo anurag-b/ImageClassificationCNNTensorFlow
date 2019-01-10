@@ -1,7 +1,7 @@
 # ImageClassificationCNNTensorFlow
 Convolutional Neural Network tutorial for Image Classification using MNIST dataset and tensorflow. This project shows step by step, the process of building a Convolutional Neural Network using Tensorflow to classify MNIST digits.
 
-##Dependencies
+## Dependencies
 
 - matplotlib
 - tensorflow
@@ -9,7 +9,7 @@ Convolutional Neural Network tutorial for Image Classification using MNIST datas
 - scikit-learn
 - math
 
-##How to run
+## How to run
 
 ```
 git clone https://github.com/anurag-b/ImageClassificationCNNTensorFlow.git
