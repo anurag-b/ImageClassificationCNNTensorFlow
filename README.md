@@ -11,8 +11,8 @@ Convolutional Neural Network tutorial for Image Classification using MNIST datas
 
 ##How to run
 
-'''
+```
 git clone https://github.com/anurag-b/ImageClassificationCNNTensorFlow.git
 cd <path to repository>
-python train.py	
-'''
+python train.py
+```	
